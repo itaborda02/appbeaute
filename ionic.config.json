@@ -1,0 +1,7 @@
+{
+  "name": "appbeaute",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
